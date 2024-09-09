@@ -32,13 +32,13 @@ The **Futuristic Language Learning Quiz** is a modern, visually-stunning app des
 3. **Enjoy learning new words in style! 🎉**
 
 ## 📸 Screenshots
-![Main Screen](./images/screenshot1.png)
+![Main Screen](./images/Screenshot1.png)
 _Main screen showcasing the quiz interface._
 
-![Feedback Screen](./images/screenshot2.png)
+![Feedback Screen](./images/Screenshot2.png)
 _Example of correct/incorrect feedback._
 
-![Feedback Screen](./images/screenshot3.png)
+![Feedback Screen](./images/Screenshot3.png)
 _Example of correct/incorrect feedback._
 
 ## 🎮 How to Use
